@@ -10,6 +10,7 @@
 #
 # Here's a clean list of Google localized domains without the country names.
 # ------------------------------------[FILTERS]-------------------------------------
+
 216.239.38.120 google.com
 216.239.38.120 google.com.af
 216.239.38.120 google.com.ag
